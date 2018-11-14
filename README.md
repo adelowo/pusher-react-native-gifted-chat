@@ -1,13 +1,6 @@
-# Want to use Gifted Chat with Pusher Chatkit?
+### Want to use Gifted Chat with Pusher Chatkit?
 
-## What is [Chatkit](https://pusher.com/chatkit?utm_source=github&utm_campaign=react-native-gifted-chat-sponsorship)?
-
-<p align="center">
-  <a href="https://pusher.com/chatkit?utm_source=github&utm_campaign=react-native-gifted-chat-sponsorship">
-	<img width="650" src="https://github.com/bookercodes/react-native-gifted-chat/blob/master/media/chatit-banner.png?raw=true" alt="Pusher Chatkit"></a>
-</p>
-
-Chatkit is a hosted chat API for you React and React Native applications (it works with native [Android](https://docs.pusher.com/chatkit/reference/android?utm_source=github&utm_campaign=react-native-gifted-chat-sponsorship) and [iOS](https://docs.pusher.com/chatkit/reference/swift?utm_source=github&utm_campaign=react-native-gifted-chat-sponsorship) too!).
+Chatkit is a hosted chat API for you React and React Native applications (it works with native [Android (https://docs.pusher.com/chatkit/reference/android)and [iOS](https://docs.pusher.com/chatkit/reference/swift) too!).
 
 You can use it to power:
 
@@ -19,8 +12,15 @@ You can use it to power:
 * Media messages
 * ... And more
 
-## How to Chatkit with Gifted Chat
+Building a chat app with React native and Pusher Chatkit.
 
-We wrote a utorial on [How to build a chat app with Gifted Chat and Pusher Chatkit](https://pusher.com/tutorials/chat-app-react-native-gifted-chat) to help you get started.
+#### Getting Started
 
-Also check out the sample code in this folder.
+- Clone this repository,  `git clone git@github.com:adelowo/pusher-react-native-gifted-chat.git`
+- Update line 5 - 9 of `MyChat.js` with your credentials.
+- `react-native run ios`
+
+#### Built with
+
+- [React Native](https://facebook.github.io/react-native)
+- [Pusher Chatkit](https://pusher.com/chatkit)
