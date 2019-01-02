@@ -18,7 +18,7 @@ Building a chat app with React native and Pusher Chatkit.
 
 - Clone this repository,  `git clone git@github.com:adelowo/pusher-react-native-gifted-chat.git`
 - Update line 5 - 9 of `MyChat.js` with your credentials.
-- `react-native run ios`
+- `react-native run ios` or `react-native run-android`
 
 #### Built with
 
